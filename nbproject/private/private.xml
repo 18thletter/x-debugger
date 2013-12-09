@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/Users/r/Documents/NetBeansProjects/CSC413/Debugger/src/interpreter/debugger/DebuggerVirtualMachine.java</file>
+        <file>file:/C:/Users/r/Documents/NetBeansProjects/CSC413/Debugger/src/interpreter/debugger/ui/UserInterface.java</file>
+        <file>file:/C:/Users/r/Documents/NetBeansProjects/CSC413/Debugger/src/interpreter/bytecodes/debuggerbytecodes/DebuggerCallCode.java</file>
+        <file>file:/C:/Users/r/Documents/NetBeansProjects/CSC413/Debugger/src/interpreter/bytecodes/debuggerbytecodes/DebuggerHaltCode.java</file>
+        <file>file:/C:/Users/r/Documents/NetBeansProjects/CSC413/Debugger/src/interpreter/bytecodes/debuggerbytecodes/DebuggerLitCode.java</file>
+        <file>file:/C:/Users/r/Documents/NetBeansProjects/CSC413/Debugger/src/interpreter/bytecodes/debuggerbytecodes/DebuggerPopCode.java</file>
+        <file>file:/C:/Users/r/Documents/NetBeansProjects/CSC413/Debugger/src/interpreter/bytecodes/debuggerbytecodes/DebuggerReturnCode.java</file>
+        <file>file:/C:/Users/r/Documents/NetBeansProjects/CSC413/Debugger/src/interpreter/bytecodes/debuggerbytecodes/FunctionCode.java</file>
+        <file>file:/C:/Users/r/Documents/NetBeansProjects/CSC413/Debugger/src/interpreter/bytecodes/debuggerbytecodes/FormalCode.java</file>
+        <file>file:/C:/Users/r/Documents/NetBeansProjects/CSC413/Debugger/src/interpreter/bytecodes/debuggerbytecodes/LineCode.java</file>
+        <file>file:/C:/Users/r/Documents/NetBeansProjects/CSC413/Debugger/src/interpreter/bytecodes/ArgsCode.java</file>
+    </open-files>
+</project-private>
